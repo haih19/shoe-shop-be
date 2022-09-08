@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:8080/api
+
+# @name getALLCategories
+GET {{baseUrl}}/categories
+
+###
+
